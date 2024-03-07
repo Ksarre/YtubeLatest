@@ -1,0 +1,6 @@
+secrets/
+__pycache__/
+test_data/
+*.log
+*google_refresh_token*
+*.ini
